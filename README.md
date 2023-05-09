@@ -5,13 +5,13 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
-🧑‍💻 I’m a full-time ***full stack developer*** at Deloitte and a freelance developer based in Jakarta, Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🧑‍💻 I’m a ***full stack developer*** at Deloitte and a ***freelance developer*** based in Jakarta, Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🚀 I currently work a lot with ***Microsoft Power Platform*** and ***Python***.
 
-🧠 I regulary learn about AI trend especially now with ***LLM***, ***auto-GPT, and langchain***.
+🧠 I regulary learn about AI trend especially now with ***LLM***, ***auto-GPT, and langchain*** gaining a lot of popularity.
 
-💬 Talk to me about web dev, machine learning, AI, or anything about ***disruptive*** tech.
+💬 Talk to me about web dev, machine learning, AI, or anything related to ***disruptive*** tech.
 
 ## 🛠 Skills
 
