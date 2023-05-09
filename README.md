@@ -25,7 +25,7 @@ Javascript, Typescript, Python, React.js, Node.js, PostgreSQL, Machine Learning,
 ![alt text](https://api.githubtrends.io/user/svg/maqmal/langs?time_range=six_months&loc_metric=changed&compact=True&theme=synthwaves)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maqmal.github.io/portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/m-aqmal-pangestu-2217a7187/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/m-aqmal-pangestu-2217a7187/)
 
 
 
