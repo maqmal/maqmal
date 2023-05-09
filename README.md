@@ -17,12 +17,12 @@
 
 ![alt text](https://api.githubtrends.io/user/svg/maqmal/langs?time_range=six_months&loc_metric=changed&compact=True&theme=synthwaves)
 
-- [x] Microsoft Power Platform
 - [x] Python
 - [x] React.js
 - [x] Node.js
 - [x] PostgreSQL
 - [x] Machine Learning
+- [x] Microsoft Power Platform
 
 ## 🔗 Links
 
