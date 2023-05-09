@@ -11,9 +11,9 @@ Javascript, Typescript, Python, React.js, Node.js, PostgreSQL, Machine Learning,
 
 ##
 
-👩‍💻 Currently working a lot with Microsoft Power Platform and React.js.
+👩‍💻 Currently working a lot with ***Microsoft Power Platform*** and ***Python***.
 
-🧠 Currently learning LLM especially auto-GPT and langchain.
+🧠 Currently learning LLM especially ***auto-GPT and langchain***.
 
 👯‍♀️ Looking to collaborate on exciting web dev projects or machine learning stuff.
 
