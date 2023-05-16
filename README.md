@@ -9,9 +9,9 @@ I'm Muhammad Aqmal Pangestu!
 
 🧑‍💻 I’m a ***full stack developer*** at Deloitte and a ***freelance developer*** based in Jakarta, Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🚀 I currently work a lot with ***Microsoft Power Platform*** and ***Python***.
+🚀 Currently work a lot with ***Microsoft Power Platform*** and ***Python***.
 
-🧠 I regulary learn about AI trend especially now with ***LLM***, ***auto-GPT, and langchain*** gaining a lot of popularity.
+🧠 I regulary learn about web dev and AI especially now with ***LLM***, ***auto-GPT, and langchain*** gaining a lot of popularity.
 
 💬 Talk to me about web dev, machine learning, AI, or anything related to ***disruptive*** tech.
 
