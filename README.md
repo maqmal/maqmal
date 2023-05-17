@@ -1,7 +1,6 @@
 # Hello There <img src="https://raw.githubusercontent.com/noczero/noczero/master/styles/Hi.gif" width="35px">
 
-I'm Muhammad Aqmal Pangestu! 
-
+***My name is Muhammad Aqmal Pangestu!***
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=maqmal&show_icons=true&theme=radical)
 
