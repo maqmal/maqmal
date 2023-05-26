@@ -18,6 +18,7 @@
 
 ![alt text](https://api.githubtrends.io/user/svg/maqmal/langs?time_range=six_months&loc_metric=changed&compact=True&theme=synthwaves)
 
+My main skills:
 - [x] Python
 - [x] React.js
 - [x] Node.js
